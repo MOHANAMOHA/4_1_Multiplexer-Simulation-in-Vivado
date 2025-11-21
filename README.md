@@ -83,9 +83,9 @@ endmodule
 ```
 ## Simulated Output Gate Level Modelling
 
-_______ Here Paste the Simulated output  ___________
 
----
+---<img width="1919" height="1075" alt="492659470-93b8a077-5181-46e9-9f09-375f66a3a79d" src="https://github.com/user-attachments/assets/0220fa93-bce6-4faf-a132-ef003a7188b4" />
+
 ### 4:1 MUX Data flow Modelling
 ```verilog
 // Dataflow Modelling - Skeleton
@@ -131,7 +131,8 @@ endmodule
 ```
 ## Simulated Output Dataflow Modelling
 
-_______ Here Paste the Simulated output  ___________
+
+<img width="1919" height="1079" alt="492657783-afd4447d-3788-495c-ad63-02e09519d38f" src="https://github.com/user-attachments/assets/c52b2cf2-7171-4805-8e01-a5608b64d4c6" />
 
 ---
 ### 4:1 MUX Behavioral Implementation
@@ -182,7 +183,8 @@ endmodule
 ```
 ## Simulated Output Behavioral Modelling
 
-_______ Here Paste the Simulated output  ___________
+<img width="1261" height="668" alt="492658093-ba539244-59b4-45a5-a4ea-44b38a82a56c" src="https://github.com/user-attachments/assets/bbd99223-1378-411e-b145-818fc4c2e2f0" />
+
 
 
 ### 4:1 MUX Structural Implementation
@@ -238,7 +240,7 @@ endmodule
 ```
 ## Simulated Output Structural Modelling
 
-_______ Here Paste the Simulated output  ___________
+<img width="1919" height="1079" alt="492658668-a3732d93-2034-4bdc-8cd7-534575cc395f" src="https://github.com/user-attachments/assets/0a392c90-a742-45cc-a18f-2e904c473798" />
 
 ---
 ### CONCLUSION
